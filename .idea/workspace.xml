@@ -1,20 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="debde367-4f86-4bec-9b6a-901df9665931" name="Changes" comment="" />
+    <list default="true" id="debde367-4f86-4bec-9b6a-901df9665931" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Automation_Framework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/loginPage_pf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/dashboardPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/loginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/common_utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tests/pageobjects/pom/loginPage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2tcxtecIFHVLCYjqhE0LAW79e0i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Python-Selenium/Framework/Automation_Framework2/.venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python-Selenium\Framework\Automation_Framework2\tests\test\vwoLoginTests\pom" />
+      <recent name="C:\Python-Selenium\Framework\Automation_Framework2\tests\test\vwoLoginTests" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

@@ -4,33 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="debde367-4f86-4bec-9b6a-901df9665931" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Automation_Framework2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/loginPage_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/dashboardPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageobjects/pom/loginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/utils/common_utils.py" afterDir="false" />
+    <list default="true" id="debde367-4f86-4bec-9b6a-901df9665931" name="Changes" comment="Framework">
+      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "abhijeet7py"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abhijeet7py/Automation_Framework2.git",
+    "accountId": "4c5ff3d7-ec22-4e5a-8733-4c444265bdc5"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tests/pageobjects/page_factory/loginPage_pf.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/tests/pageobjects/pom/loginPage.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -90,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740665380009</updated>
     </task>
+    <task id="LOCAL-00001" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1740840271762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740840271762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Framework" />
   </component>
 </project>

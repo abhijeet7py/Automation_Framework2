@@ -1,0 +1,1 @@
+type object 'Constants' has no attribute 'take_screenshot'

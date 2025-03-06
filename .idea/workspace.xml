@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debde367-4f86-4bec-9b6a-901df9665931" name="Changes" comment="Framework">
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abhijeet7py"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abhijeet7py&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abhijeet7py/Automation_Framework2.git",
-    "accountId": "4c5ff3d7-ec22-4e5a-8733-4c444265bdc5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhijeet7py/Automation_Framework2.git&quot;,
+    &quot;accountId&quot;: &quot;4c5ff3d7-ec22-4e5a-8733-4c444265bdc5&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/tests/pageobjects/page_factory/dashboardPage_pf.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/tests/pageobjects/page_factory/loginPage_pf.py" root0="SKIP_INSPECTION" />
@@ -52,14 +51,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python-Selenium/Framework/Automation_Framework2/.venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python-Selenium/Framework/Automation_Framework2/.venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python-Selenium\Framework\Automation_Framework2\tests\test\vwoLoginTests\pom" />
@@ -90,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740840271762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1741009747315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741009747315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
